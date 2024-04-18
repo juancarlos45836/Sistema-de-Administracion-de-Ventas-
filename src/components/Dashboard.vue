@@ -168,7 +168,7 @@
       class="relative m-10 items-center w-[100%] bg-gray-700 flex flex-col h-fit p-5 boder-solid border-[2px] border-gray-600 overflow-x-auto shadow-md sm:rounded-lg"
     >
       <table
-        class="flex flex-col w-[80%] text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400"
+        class="flex flex-col w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400"
       >
         <thead
           class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
